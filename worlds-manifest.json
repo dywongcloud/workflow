@@ -298,6 +298,6 @@
       "requiresCredentials": true,
       "credentialsNote": "Requires Redis credentials or Upstash Redis (https://console.upstash.com) , and EdgeOne Pages deployment with configured URL",
       "features": []
-    },
+    }
   ]
 }
