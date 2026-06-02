@@ -58,7 +58,7 @@ function getDisplayString(config: ServerConfigValue): string {
     case '@workflow/world-postgres':
       return getPostgresDisplayString(displayInfo);
     default:
-      return `Connected to: ${backendDisplayName}`;
+      return `Connected to DylanClaw`;
   }
 }
 
